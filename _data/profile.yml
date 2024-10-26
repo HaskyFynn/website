@@ -2,24 +2,43 @@ primary_name: "Hasky Egyeri Fynn"
 navbar_name: "Hasky Egyeri Fynn"
 
 positions:
-- name: Teaching Assistant
+- name: Teaching and Research Assistant
 - logo: /assets/images/badges/knustlogo.png
+  name: Department of Telecommunication Engineering
 
-- name: Research Assistant
-- logo: /assets/images/badges/via.png
-
-- name: Co-Founder, Ethical Hacking Instructor
-- logo: /assets/images/badges/TheHub.png 
-
-email: "fynnhasky(AT)email(DOT)com"
+email: "fynnhasky(AT)gmail(DOT)com"
+# cv_link: link-to-your-cv-file
 github: HaskyFynn
-linkedin: hasky-egyeri-fynn-71941a213
+twitter: hasky1
+# linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
+short_bio: >-
+  Hi, my name is Hasky Egyeri Fynn. I earned my B.S. degree from ....<br><br>
+
+  My research interests lie in ...<br><br>
+
+  I love music and I bake the best pastries.<br><br>
+
 portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: >-
+  My best picture :)
 
 education:
 - name: Kwame Nkrumah University of Science and Technology
   logo: /assets/images/badges/knustlogo.png
   position: BSc. Telecommunication Engineering
-  date: Jan 2021 - Aug 2024
+  date: Jan. 2021 - Aug. 2024
+
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2021 - Jul. 2021
+
+
+awards:
+- name: AAA
+  date: 2018 - 2019
+- name: AAA
+  date: 2018
