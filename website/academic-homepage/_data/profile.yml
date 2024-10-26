@@ -1,0 +1,27 @@
+primary_name: "Hasky Egyeri Fynn"
+secondary_name: ""
+navbar_name: "Hasky Egyeri Fynn"
+
+positions:
+- name: Teaching Assistant
+- logo: /assets/images/badges/knustlogo.png
+
+- name: Co-Founder, Ethical Hacking Instructor
+- logo: /assets/images/badges/TheHub.png
+
+- name: Research Assistant
+- logo: /assets/images/badges/via.png 
+
+email: "fynnhasky (AT) email (DOT) com"
+github: HaskyFynn
+linkedin: hasky-egyeri-fynn-71941a213
+# orcid: 0000-0000-0000-0000
+
+portrait_url: /assets/images/photos/portrait.jpg
+
+education:
+- name: Kwame Nkrumah University of Science and Technology
+  logo: /assets/images/badges/knustlogo.png
+  position: >- 
+    BSc. Telecommunication Engineering
+  date: Jan 2021 - Aug 2024
