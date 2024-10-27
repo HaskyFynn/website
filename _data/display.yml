@@ -1,4 +1,4 @@
 homepage:
   show_news: true
   show_selected_publications: true
-  num_news: 10
+  show_experience: true
