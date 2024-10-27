@@ -10,9 +10,6 @@ email: "fynnhasky(AT)gmail(DOT)com"
 #gscholar: MX0S_1IAAAAJ
 github: HaskyFynn
 twitter: _hasky1
-# wechat_qrcode: assets/images/etc/wechat.png
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: HaskyEgyeriFynn
 orcid: 0009-1111-1111-1111
 
@@ -26,7 +23,6 @@ education:
   logo: assets/images/badges/knustlogo.png
   position: Bachelor of Science (Telecommunication Engineering)
   date: Jan. 2021 - Aug. 2024
-
 
 experience:
 - name: Kwame Nkrumah University of Science and Technology
@@ -44,7 +40,6 @@ experience:
 - name: MP Infrastructure Ghana
   position: Telecom Cell Site Engineer, Intern
   date: Sep. 2022 - Dec. 2022 & Sep 2023 - Dec. 2023
-
 
 awards:
 - name: Provost's Honors List, College of Engineering, KNUST
