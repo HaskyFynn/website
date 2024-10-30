@@ -3,7 +3,6 @@ title:          "Empirical Analysis of QUIC's Resilience to Handshake Flood Atta
 date:           2024-10-01
 selected:       true
 pub_pre:        "Submitted to MDPI IoT 2024"
-pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 
 abstract: >-
