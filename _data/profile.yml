@@ -6,12 +6,10 @@ positions:
   - '<span class="no-break"><img src="assets/images/badges/knustlogo.png" alt="Kwame Nkrumah University of Science and Technology" class="inline-badge"/></span> BSc., Telecommunication Engineering'
 
 email: "fynnhasky(AT)gmail(DOT)com"
-# cv_link: link-to-your-cv-file
-#gscholar: MX0S_1IAAAAJ
 github: HaskyFynn
 twitter: _hasky1
 linkedin: hasky-egyeri-fynn
-orcid: 0009-1111-1111-1111
+orcid: 0009-0007-4432-4399
 
 short_bio: >-
   I am an undergraduate student researcher from the University of Hong Kong (HKU). My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation.
@@ -21,7 +19,7 @@ portrait_url: assets/images/photos/portrait.jpg
 education:
 - name: Kwame Nkrumah University of Science and Technology
   logo: assets/images/badges/knustlogo.png
-  position: Bachelor of Science (Telecommunication Engineering)
+  position: BSc. Telecommunication Engineering
   date: Jan. 2021 - Aug. 2024
 
 experience:
