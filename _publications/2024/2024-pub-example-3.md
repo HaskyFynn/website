@@ -14,6 +14,7 @@ authors:
   - Obed Baffour Kingful
   - Rachael Affotey-Annang
 ---
+---
 title:          "ViKey: Secure Door Access Control Using Passive Visible Light Tags"
 date:           2025-06-02
 selected:       true
